@@ -1,0 +1,21 @@
+
+  "credentials": {
+    "tenantID": "xyv0",
+    "clientID": "afawff",
+    "audience": "afwfa"
+  },
+  "resource": {
+    "scope": [".default"]
+  },
+  "metadata": {
+    "authority": "login.microsoftonline.com",
+    "discovery": ".well-known/openid-configuration",
+    "version": "v2.0"
+  },
+  "settings": {
+    "validateIssuer": true,
+    "passReqToCallback": false,
+    "loggingLevel": "info",
+    "isB2C": false
+  }
+}
